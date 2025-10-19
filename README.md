@@ -7,7 +7,7 @@ bb → c
 cc → cddc
 ddd → ac
 aa → bc
-bc → abba```
+bc → abba
 
 ## Переименование символов
 
@@ -18,7 +18,7 @@ bb → c
 cc → cssc
 sss → ac
 aa → bc
-bc → abba```
+bc → abba
 
 ---
 
