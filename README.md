@@ -163,6 +163,7 @@ E, c, b, a, cc, ca, (ab)<sup>n</sup>, b(ab)<sup>n</sup>, a(ba)<sup>n</sup>, (ba)
 
 ### ниже приведен атомат с классами эквивалентности
 
+<img width="1362" height="749" alt="image" src="https://github.com/user-attachments/assets/e39e04e0-59e4-4b6a-98c2-ae127e71a54b" />
 
 
 
