@@ -18,4 +18,11 @@
 <img width="1264" height="1280" alt="image" src="https://github.com/user-attachments/assets/9700d97e-cb88-4746-9621-5276e8a81f69" />
 
 
-## задача 2:
+# задача 2:
+Рассматривается язык
+
+L = { w<sub>1</sub> a<sup>n</sup> w<sub>2</sub> | |w<sub>1</sub>|<sub>a</sub> = |w<sub>2</sub>|<sub>b</sub>  и  w<sub>1</sub> не содержит подслово aa },<br>
+
+где w<sub>1</sub>, w<sub>2</sub> ∈ {a, b}<sup>*</sup>, n ≥ 0.<br>
+
+Из теории, для доказательста что L - КС, достаточно построить недетерминированный магазинный автомат (НПДА), распознающий L.<br>
