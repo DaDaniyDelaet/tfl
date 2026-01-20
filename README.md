@@ -84,7 +84,10 @@ w<sub>1</sub> = (ab)<sup>t</sup>, тогда a<sup>n</sup> = aa (то есть n
 
 w<sub>1</sub> = (ab)<sup>t</sup>a, тогда a<sup>n</sup> = a (то есть n = 1), w<sub>2</sub> = b<sup>m</sup> и условие даёт m = t+1.
 
+<img width="751" height="1093" alt="image" src="https://github.com/user-attachments/assets/9f936abf-1eea-4e48-a935-295341807efc" />
 
+
+<img width="749" height="1086" alt="image" src="https://github.com/user-attachments/assets/b195edba-032d-486d-a79c-82062db3c976" />
 
 Получили что язык L не детерминизируем.
 
