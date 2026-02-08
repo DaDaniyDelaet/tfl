@@ -73,23 +73,11 @@ qACC — принимающее состояние <br>
 
 Теперь проверим язык на детерминизм.
 
-Рассмотрим регулярный язык
-R = (ab)* aa b*.
-Положим K = L ∩ R.
+<img width="830" height="1278" alt="image" src="https://github.com/user-attachments/assets/476daba3-5bdc-42d9-bd8d-480d98e22332" />
 
-Любое слово из R имеет вид w = (ab)<sup>t</sup> aa b<sup>m</sup>, t,m ≥ 0.
-Так как w<sub>1</sub> не должно содержать подслово aa, граница между w<sub>1</sub> и a<sup>n</sup> в словах из R может проходить относительно блока “aa” только двумя способами:
+<img width="958" height="1135" alt="image" src="https://github.com/user-attachments/assets/b581f705-1381-4e8a-929d-1635f354d074" />
 
-w<sub>1</sub> = (ab)<sup>t</sup>, тогда a<sup>n</sup> = aa (то есть n = 2), w<sub>2</sub> = b<sup>m</sup> и условие |w<sub>1</sub>|<sub>a</sub> = |w<sub>2</sub>|<sub>b</sub> даёт m = t.
-
-w<sub>1</sub> = (ab)<sup>t</sup>a, тогда a<sup>n</sup> = a (то есть n = 1), w<sub>2</sub> = b<sup>m</sup> и условие даёт m = t+1.
-
-<img width="751" height="1093" alt="image" src="https://github.com/user-attachments/assets/9f936abf-1eea-4e48-a935-295341807efc" />
-
-
-<img width="749" height="1086" alt="image" src="https://github.com/user-attachments/assets/b195edba-032d-486d-a79c-82062db3c976" />
-
-Получили что язык L не детерминизируем.
+Получили что язык L детерминизируем.
 
 # задача 3:
 Дан язык, заданный атрибутивной грамматикой: <br>
